@@ -1,6 +1,6 @@
-# About Go
+# About [Go](https://go.dev)
 
-Go is also a perfect PC programming language is [Go](https://go.dev)
+[Go](https://go.dev) is also a perfect PC programming language
 
 ## Why?
 
